@@ -1,6 +1,6 @@
 <h1></h1>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD1FF7&random=false&width=435&height=100&lines=Hello+there!+Welcome+on+my+profile." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD1FF7&random=false&width=435&height=100&lines=Hello+there!+Welcome+to+my+profile." alt="Typing SVG" /></a>
 </div>
 
 <p class="heading-element">👋Hi, I'm Bartosz.</p>
