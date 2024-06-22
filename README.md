@@ -12,7 +12,7 @@
 <h3 align="center">👨‍💻 Main Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=cs" />
     <img src="https://skillicons.dev/icons?i=dotnet"/>
   </a>
 </p>
@@ -20,10 +20,10 @@
 <h3 align="center">🔧 Other Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev" width="502px">
-    <img src="https://skillicons.dev/icons?i=python"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=html"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=css"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=js"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=python"/>
+    <img src="https://skillicons.dev/icons?i=html"/>
+    <img src="https://skillicons.dev/icons?i=css"/>
+    <img src="https://skillicons.dev/icons?i=js"/>
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
 </p>
@@ -31,10 +31,10 @@
 <h3 align="center">💻 Software and tools</h3>
 <p align="center">
   <a href="https://skillicons.dev" width="502px">
-    <img src="https://skillicons.dev/icons?i=git"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=docker"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=mysql"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=visualstudio"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=git"/>
+    <img src="https://skillicons.dev/icons?i=docker"/>
+    <img src="https://skillicons.dev/icons?i=mysql"/>
+    <img src="https://skillicons.dev/icons?i=visualstudio"/>
     <img src="https://skillicons.dev/icons?i=vscode"/>
   </a>
 </p>
